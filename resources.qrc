@@ -1,0 +1,10 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+	<file>icon/penny.ico</file>
+	<file>icon/penny.png</file>
+	<file>icon/settings.ico</file>
+	<file>icon/settings.png</file>
+	<file>icon/calendar.ico</file>
+	<file>icon/calendar.png</file>
+</qresource>
+</RCC>
